@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AndroidProject_Flora</string>
+    <string-array name="codename">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+    </string-array>
+
+    <string-array name="version">
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>2.0-2.1</item>
+        <item>2.2-2.2.3</item>
+        <item>2.3 - 2.3.7</item>
+        <item>3.0-3.2.6</item>
+        <item>4.0-4.0.4</item>
+        <item>4.1-4.3.1</item>
+        <item>4.4-4.4.4</item>
+        <item>5.0-5.1.1</item>
+        <item>6.0-6.0.1</item>
+        <item>7.0-7.1.2</item>
+        <item>8.0</item>
+    </string-array>
+
+    <string-array name="api">
+        <item>3</item>
+        <item>4</item>
+        <item>5 - 7</item>
+        <item>8</item>
+        <item>9 - 10</item>
+        <item>11 - 13</item>
+        <item>14 - 15</item>
+        <item>16 - 18</item>
+        <item>19 - 20</item>
+        <item>21 - 22</item>
+        <item>23</item>
+        <item>24 - 25</item>
+        <item>26</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Released April 27, 2009</item>
+        <item>Released September 15, 2009</item>
+        <item>Released October 26, 2009</item>
+        <item>Released May 20, 2010</item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+        <item>Released </item>
+    </string-array>
+
+</resources>
